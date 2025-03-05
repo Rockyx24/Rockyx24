@@ -1,7 +1,53 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<h1 align="center"> Hey!!👋 I'm RockyX</h1>
+## 🚀 About Me
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+I'm a passionate Full Stack Developer and Data Science enthusiast on a mission to transform data into meaningful insights and innovative solutions.
+
+### 🌟 Professional Snapshot
+
+- 💻 **Full Stack Developer** 
+- 🔍 **Data Explorer** 
+- 🤖 **Machine Learning & AI Advocate**
+- 📱 **Android App Developer**
+
+## 🧠 Technical Expertise
+
+### Languages & Technologies
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
+![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
+
+### Data Science & ML Toolkit
+- 📊 **Data Manipulation:** Pandas, NumPy
+- 🧱 **Machine Learning:** Scikit-Learn
+- 🤖 **Deep Learning:** TensorFlow, Keras
+- 📈 **Data Visualization** techniques
+
+## 🌱 Key Strengths
+
+- 📚 **Lifelong Learner**
+- 🔬 **Data-Driven Problem Solver**
+- 📊 **Statistical Analysis**
+- 🌐 **Predictive Modeling**
+
+## 🎯 Mission Statement
+
+> 🌍 Making the world smarter, one data point at a time!
+
+## 🤝 Let's Connect!
+
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:lovelyboyarun91@gmail.com)
+
+### 🏷️ Areas of Passion
+`#DataScience` `#MachineLearning` `#AI` `#Analytics` `#Python` `#Statistics` `#AndroidDevelopment`
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURGITHUBUSERNAME&show_icons=true&theme=radical)
+
+---
+
+**💬 Always open to collaboration and exciting data challenges!**
 
 
 # 💻 Tech Stack:
